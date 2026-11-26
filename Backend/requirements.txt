@@ -1,0 +1,8 @@
+FastAPI
+Uvicorn[standard]
+bcrypt
+python-multipart
+ReportLab
+APScheduler
+python-dotenv
+itsdangerous
